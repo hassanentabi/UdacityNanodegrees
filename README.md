@@ -6,47 +6,6 @@
 the money, and/or just don't want to pay for them, you can take many of the
 courses for free.
 
-While it's no substitute for the actual Nanodegree programs
-(which include project reviews, additional student and career guidance, and a
-job guarantee) there is some great content available for learning.
-
-NOTE: I have NO affiliation with Udacity
-
----
-
-## Why are only some of the Nanodegrees listed here?
-
-The focus of this project has always been making learning accessible. As
-such, I've chosen to only only list Nanodegrees with free content. All of
-the Nanodegrees programs listed here meet the following criteria:
-
-* Nanodegree lists syllabus on it's public-facing (non-logged in) page
-* Links to each course in the syllabus are available on the public-facing Nanodegree page
-* Individual courses are available to take for free via their public facing course page
-
-Lately, as Udacity adds more and more great (and relevent) programs, the
-newer Nanodegrees haven't been listing the courses and/or linking to them and
-this list hasn't been updated as frequently.
-
-### What about pull requests, I'd like to contribute?
-
-Awesome! As long as your PR meets the same 3 criteria in the last section.
-
-I am aware that some of the listed Nanodegrees offer a different/newer syllabus to
-their paid students. I'm still deciding how I want to handle that here. If you've
-had a PR closed because of this, I will contact you directly.
-
-#### Are you really taking donations? You're barely even updating this anymore!?!
-
-Yeah, yeah. I hear ya. When I first created this project there were no links
-to donate. They were only added after receiving a surprising amount of requests
-from very kind people who found the project useful and asked for them.
-
-* Bitcoin Wallet Address: 1375JTEBo1AFEsK2HUh17jth3KqPgJPSxC
-* PayPal/Credit/Debit: [https://www.paypal.me/mikesprague](https://www.paypal.me/mikesprague)
-
----
-
 ## Table of Contents
 
 * [Front-End Web Developer Nanodegree](#front-end-web-developer-nanodegree)
